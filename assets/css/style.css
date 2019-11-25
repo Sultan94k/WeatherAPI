@@ -1,0 +1,34 @@
+#nav_bar{
+    background: transparent;
+}
+
+#showWeather{
+    margin: auto;
+    background-image: url('https://gifspro.com/wp-content/uploads/2018/06/Cumulus-Clouds-Timelapse-8-Near-Sunset.gif');
+    filter: blur(0);
+    color: whitesmoke;
+    background-size: cover;
+    border: blue;
+    width: 400px;
+    height: 500px;
+    border-radius: 25px;
+    text-shadow: 2px 2px rgb(17, 17, 37);
+}
+.container{
+    margin: 0 auto;
+}
+
+.row{
+    text-align: center;
+}
+#icon{
+
+    margin-bottom: 0;
+    height: 400px;
+    width: 400px;
+    color: antiquewhite;
+}
+body{
+   background-image: url(../Images/34021990644_b760fbd192_o.jpg);
+   background-size: cover;
+}
