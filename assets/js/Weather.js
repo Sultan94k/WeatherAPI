@@ -9,7 +9,7 @@ $(function () {
 function getWeather() {
   var city = $("#city").val();
   if (city == "") {
-    // todo Get user location.
+    //todo: Get user location.
     city = "chicago"
   }
 
